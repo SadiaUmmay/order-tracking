@@ -40,43 +40,6 @@ A high-performance, responsive, and resilient Order Tracking web application bui
 - *Linter & Code Quality*: [Oxlint](https://oxc.rs/)
 
 ---
-
-## 📂 Repository Structure
-
-
-.
-├── public/
-│   ├── _redirects
-│   ├── favicon.svg
-│   └── icons.svg
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── AlertModal.jsx         # Live notification preferences modal
-│   │   ├── DeliveryMap.jsx        # SVG Vector route map & courier info
-│   │   ├── DeliveryPhotoModal.jsx # Proof of delivery image viewer
-│   │   ├── ErrorView.jsx          # Network retry error fallback state
-│   │   ├── MissingItemModal.jsx   # 3-Step Guided Resolution Wizard
-│   │   ├── MobileFrame.jsx        # Responsive iOS mobile shell container
-│   │   ├── OrderSummary.jsx       # Expandable items & pricing breakdown
-│   │   ├── ProgressTimeline.jsx   # 4-Stage Stepper & detailed facility logs
-│   │   ├── RescheduleModal.jsx    # Delivery slot rescheduling form
-│   │   ├── SkeletonLoader.jsx     # Shimmer loading fallback state
-│   │   ├── StateSwitcherBar.jsx   # Top scenario evaluator switcher bar
-│   │   ├── StatusHeader.jsx       # Main order badge & primary ETA hero card
-│   │   └── SupportActions.jsx     # Contextual help & 24/7 priority assistance
-│   ├── data/
-│   │   └── mockOrders.js          # Mock state data schemas
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── vercel.json                    # SPA rewrite configuration for Vercel
-├── vite.config.js
-└── README.md
-
-
----
-
 ## 🚀 Getting Started Locally
 
 ### Prerequisites
