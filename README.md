@@ -75,40 +75,6 @@ A high-performance, responsive, and resilient Order Tracking web application bui
 └── README.md
 ```
 
----
-
-## 🚀 Getting Started Locally
-
-### Prerequisites
-- **Node.js** (v18.0.0 or higher recommended)
-- **npm** or **pnpm** / **yarn**
-
-### Installation & Execution
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/zobaer29/ORDER-TRACKING.git
-   cd ORDER-TRACKING
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Run the local development server**:
-   ```bash
-   npm run dev
-   ```
-   Open `http://localhost:5173` in your browser.
-
-4. **Build for production**:
-   ```bash
-   npm run build
-   ```
-   The compiled static files will be placed in the `dist/` directory.
-
----
 
 ## 🌐 Deployment Routing
 
