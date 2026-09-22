@@ -46,7 +46,7 @@ A high-performance, responsive, and resilient Order Tracking web application bui
 
 .
 ├── public/
-│   ├── _redirects            # SPA redirect rule for Netlify / static hosts
+│   ├── _redirects
 │   ├── favicon.svg
 │   └── icons.svg
 ├── src/
